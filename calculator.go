@@ -64,7 +64,7 @@ func moveOn() {
 		// Parse the info and trim the strings
 		a,_ := strconv.ParseFloat(strings.TrimSpace(completedInfo[2]), 64);
 		r,_ := strconv.ParseFloat(strings.TrimSpace(completedInfo[3]), 64);
-		// Move to decimal points two places to the left
+		// Move the decimal points two places to the left
 		r = r / 100;
 		x,_ := strconv.ParseFloat(strings.TrimSpace(completedInfo[4]), 64);
 
