@@ -5,6 +5,7 @@ Growth Decay Calculator is a calculator that calculates how much a value grows o
 
     Growth - y = a(1+r)^x
     Decay  - y = a(1-r)^x
+    
     y = Final
     a = Initial
     r = Growth or Decay change (%)
