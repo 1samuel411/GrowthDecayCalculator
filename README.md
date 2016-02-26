@@ -27,8 +27,6 @@ func main() {
 
 #### Contact
 
-Contact me through,
-
 email - armi.sam99@gmail.com
 
 phone - 239-362-6590
