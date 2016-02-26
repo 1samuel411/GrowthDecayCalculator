@@ -1,5 +1,12 @@
 /*
-My first go program
+Calculator.go
+
+*Summary*
+This class can calculate the growth or decay for a float using the growth and decay equations
+
+The 'moveOn' method will iterate through the slice of 'stages' until it reaches the last element and adds to 'currentStage'.
+The 'completedInfo' slice will add to itself after the user enters information into the console.
+When the 'currentStage' integer is greater than or equal to the size of the 'stages' then it moves on to finally calculating the information.
  */
 package main
 
